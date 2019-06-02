@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+div.window {
+    border: 1px solid gray;
+    border-radius: 15px;
+    position: absolute;
+    width: 500px;
+    height: 280px;
+    top: 200px;
+    left: 50%;
+    margin-left: -250px;
+}
